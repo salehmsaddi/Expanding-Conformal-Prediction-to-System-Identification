@@ -9,7 +9,7 @@ We kindly ask that you cite the above-mentioned paper if you use **Conformal Sys
 
 ## Overview
 
-This repository provides a MATLAB implementation of **C-SysID**, a model agnostic framework that integrates *Conformal Prediction* with *System Identification* to quantify uncertainty in dynamic models.
+This repository provides a MATLAB implementation of **C-SysID**, a model-agnostic framework that integrates *Conformal Prediction* with *System Identification* to quantify uncertainties in dynamic models.
 
 We provide:
 - An example for **single-output C-SysID** on the *Heat Exchanger* dataset.
