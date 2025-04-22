@@ -2,7 +2,7 @@
 MATLAB implementation of the following paper:
 
 ```text
-TO BE ADDED
+S. Msaddi, T. Kumbasar, 2025. Expanding Conformal Prediction to System Identification, Pattern Recognition.
 ```
 
 We kindly ask that you cite the above-mentioned paper if you use **Conformal System Identification (C-SysID)** in your research or publish work based on these codes.
